@@ -1,0 +1,10 @@
+.content{
+    font-family: 'Shadows Into Light', cursive;
+}
+.nav :hover{
+background-color: lightgray;
+}
+.nav-item :hover{
+    border-bottom: 2px solid black;
+   
+}
